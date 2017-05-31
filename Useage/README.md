@@ -1,0 +1,1 @@
+![](../assets/advanced-readme.png)
