@@ -18,4 +18,11 @@
             "Wang's Blog": "https://www.baidu.com"
         }
     },
+    "plugins": [
+        "disqus",
+        "anchors",
+        "comscore",
+        "multipart",
+        "codeblock-filename"
+    ],
 }
