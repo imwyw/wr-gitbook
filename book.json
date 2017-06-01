@@ -9,11 +9,17 @@
         "multipart",
         "anchors",
         "codeblock-filename",
+        "-search",
+        "search-pro",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "wr-gitbook"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": ["Gitbook Use"]
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy 2017",
