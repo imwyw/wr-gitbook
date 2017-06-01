@@ -7,10 +7,9 @@
         "disqus",
         "anchors",
         "multipart",
-        "anchors",
-        "codeblock-filename",
         "-search",
-        "search-pro",
+        "-lunr",
+        "search-plus",
         "-sharing",
         "splitter",
         "sectionx",
@@ -20,12 +19,8 @@
         "disqus": {
             "shortName": "wr-gitbook"
         },
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord": ["Gitbook Use"]
-        },
         "tbfed-pagefooter": {
-            "copyright": "Copyright &copy 2017",
+            "copyright": "Copyright &copy imwyw",
             "modify_label": "最后修改时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
