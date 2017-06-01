@@ -5,8 +5,11 @@
     "language": "zh-hans",
     "plugins": [
         "disqus",
+        "anchors",
+        "comscore",
         "multipart",
         "anchors",
+        "codeblock-filename",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
