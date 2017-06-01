@@ -1,0 +1,25 @@
+{
+    "title": "Gitbook入门",
+    "author": "Wang Yuanwei <now_way@126.com>",
+    "description": "gitbook入门",
+    "language": "zh-hans",
+    "generator": "site",
+    "plugins": [
+        "disqus",
+        "tbfed-pagefooter",
+        // "anchors",
+        // "comscore",
+        // "multipart",
+        // "codeblock-filename"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "wr-gitbook"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 2017",
+            "modify_label": "最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    },
+}
