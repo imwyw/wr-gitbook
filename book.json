@@ -14,11 +14,16 @@
         "-sharing",
         "splitter",
         "sectionx",
+        "simple-page-toc",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "wr-gitbook"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy imwyw",
