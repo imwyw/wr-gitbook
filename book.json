@@ -11,7 +11,9 @@
         "codeblock-filename",
         "-search",
         "search-pro",
-        "ace",
+        "-sharing",
+        "splitter",
+        "sectionx",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
