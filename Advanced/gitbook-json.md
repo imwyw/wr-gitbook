@@ -1,5 +1,5 @@
 # wr-gitbook
-![](../assets/gitbook.png)
+![](../assets/advanced-readme.png)
 
 ## gitbook配置
 ### 默认插件

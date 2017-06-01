@@ -3,6 +3,7 @@
     "author": "Wang Yuanwei <now_way@126.com>",
     "description": "gitbook入门",
     "language": "zh-hans",
+    "gitbook": ">=3.0.0",
     "plugins": [
         "disqus",
         "anchors",
@@ -13,16 +14,11 @@
         "-sharing",
         "splitter",
         "sectionx",
-        "toc2",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "wr-gitbook"
-        },
-        "toc2": {
-            "addClass": true,
-            "className": "toc"
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy imwyw",
