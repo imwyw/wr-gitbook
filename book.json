@@ -6,7 +6,6 @@
     "plugins": [
         "disqus",
         "anchors",
-        "comscore",
         "multipart",
         "anchors",
         "codeblock-filename",
