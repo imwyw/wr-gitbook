@@ -13,11 +13,16 @@
         "-sharing",
         "splitter",
         "sectionx",
+        "toc2",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "wr-gitbook"
+        },
+        "toc2": {
+            "addClass": true,
+            "className": "toc"
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy imwyw",

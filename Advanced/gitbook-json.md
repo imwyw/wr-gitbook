@@ -1,5 +1,5 @@
 # wr-gitbook
-![](assets/gitbook.png)
+![](../assets/gitbook.png)
 
 ## gitbook配置
 ### 默认插件
@@ -24,9 +24,12 @@
 
         //评论
         "disqus",
+
+        //github似的锚点
         "anchors",
+
+        //
         "multipart",
-        "codeblock-filename",
 
         //加载中文搜索需要移除默认的search插件
         "-search",
