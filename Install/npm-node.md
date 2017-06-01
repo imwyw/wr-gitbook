@@ -1,5 +1,3 @@
-<!-- toc -->
-
 # 安装Node.js
 - 官网下载对应的安装包,安装即可
 >https://nodejs.org/zh-cn/
