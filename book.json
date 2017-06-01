@@ -20,11 +20,11 @@
     },
     "plugins": [
         "disqus",
-        "anchors",
-        "comscore",
-        "multipart",
-        "tbfed-pagefooter",
-        "codeblock-filename"
+        // "anchors",
+        // "comscore",
+        // "multipart",
+        // "tbfed-pagefooter",
+        // "codeblock-filename"
     ],
     "pluginsConfig": {
         "disqus": {
