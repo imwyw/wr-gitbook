@@ -5,6 +5,7 @@
     "language": "zh-hans",
     "plugins": [
         "disqus",
+        "multipart",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {

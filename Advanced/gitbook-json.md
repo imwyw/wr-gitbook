@@ -4,8 +4,8 @@
 ## gitbook配置
 ``` js
 {
-    "author": "Chengwei Yang <me@chengweiyang.cn>",
-    "description": "A GitBook about learning GitBook",
+    "author": "Wang Yuanwei <now_way@126.com>",
+    "description": "gitbook入门教程",
     "extension": null,
     "generator": "site",
     "isbn": null,
@@ -18,8 +18,8 @@
             "weibo": null
         },
         "sidebar": {
-            "About Me": "http://www.chengweiyang.cn/about",
-            "Chengwei's Blog": "http://www.chengweiyang.cn"
+            "About Me": "",
+            "Chengwei's Blog": ""
         }
     },
     "output": null,
@@ -45,7 +45,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "introducetogitbook"
+            "shortName": "wr-gitbook"
         }
     },
     "title": "GitBook 简明教程",
