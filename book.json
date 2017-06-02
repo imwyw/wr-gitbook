@@ -15,7 +15,7 @@
         "splitter",
         "sectionx",
         "anchor-navigation-ex",
-        "baidu",
+        "3-ba",
         "toggle-chapters",
         "tbfed-pagefooter"
     ],
@@ -29,7 +29,7 @@
         "sectionx": {
             "tag": "b"
         },
-        "baidu": {
+        "3-ba": {
             "token": "efc8d91fb1de5a2cf2359e5229a0328a"
         },
         "anchor-navigation-ex": {
