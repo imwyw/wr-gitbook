@@ -15,6 +15,7 @@
         "splitter",
         "sectionx",
         "anchor-navigation-ex",
+        "baidu",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
@@ -23,6 +24,9 @@
         },
         "theme-default": {
             "showLevel": true
+        },
+        "baidu": {
+            "token": "efc8d91fb1de5a2cf2359e5229a0328a"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": true,
