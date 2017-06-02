@@ -45,12 +45,18 @@
         //将页面分块显示
         "sectionx",
 
+        //百度统计
+        "3-ba",
+
         //为页面添加页脚
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "wr-gitbook"
+        },
+        "3-ba":{
+            "token":"xxxxx"
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy 2017",
