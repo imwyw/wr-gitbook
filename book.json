@@ -15,7 +15,6 @@
         "splitter",
         "sectionx",
         "anchor-navigation-ex",
-        "sitemap-general",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
@@ -28,9 +27,6 @@
             "tocLevel1Icon": "fa fa-hand-o-right",
             "tocLevel2Icon": "fa fa-hand-o-right",
             "tocLevel3Icon": "fa fa-hand-o-right"
-        },
-        "sitemap-general": {
-            "prefix": "https://imwyw.gitbooks.io/wr-gitbook/content"
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy imwyw",
