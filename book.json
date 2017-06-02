@@ -21,6 +21,9 @@
         "disqus": {
             "shortName": "wr-gitbook"
         },
+        "theme-default": {
+            "showLevel": true
+        },
         "anchor-navigation-ex": {
             "isRewritePageTitle": true,
             "isShowTocTitleIcon": true,
