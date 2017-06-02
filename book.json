@@ -26,6 +26,9 @@
         "theme-default": {
             "showLevel": true
         },
+        "sectionx": {
+            "tag": "b"
+        },
         "baidu": {
             "token": "efc8d91fb1de5a2cf2359e5229a0328a"
         },
